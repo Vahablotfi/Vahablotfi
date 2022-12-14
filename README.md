@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am highly motivated and enthusiastic always willing to learn,work.well with others as well as efficiently on my own.
+I am highly motivated and enthusiastic always willing to learn. I work well with others as well as efficiently on my own.
 One of the things I like most about web development is that there are always new challenges and new technologies to learn. 
 
 - 🔭 I’m currently expanding my knowledge, while looking for new exciting challenges.
-- 🌱 I’m currently Practicing OOP programing with JS.
+- 🌱 I’m currently Practicing OOP programming with JS.
 - 👯 I’m looking to collaborate on projects which includes JavaScript, React, MYSQL. 
 - 💻 See my portfolio website here: https://vahablotfi.github.io/Portfolio/
 - 💬 Ask me out for a coffee, if you want more info about me. 
