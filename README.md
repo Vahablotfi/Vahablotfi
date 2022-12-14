@@ -6,7 +6,8 @@ One of the things I like most about web development is that there are always new
 - 🔭 I’m currently expanding my knowledge, while looking for new exciting challenges.
 - 🌱 I’m currently Practicing OOP programing with JS.
 - 👯 I’m looking to collaborate on projects which includes JavaScript, React, MYSQL. 
-- 💬 Ask me out for a coffe, if you want more info about me. 
+- 💻 See my portfolio website here: https://vahablotfi.github.io/Portfolio/
+- 💬 Ask me out for a coffee, if you want more info about me. 
 - 📫 How to reach me: send an e-mail to vahablotfi1@gmail.com
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: loading...
