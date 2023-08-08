@@ -4,11 +4,11 @@ I am highly motivated and enthusiastic always willing to learn. I work well with
 One of the things I like most about web development is that there are always new challenges and new technologies to learn. 
 
 - 🔭 I’m currently expanding my knowledge, while looking for new exciting challenges.
-- 🌱 I’m currently Learning  ASP .NET .
-- 👯 I’m looking to collaborate on projects which includes JavaScript, React, MYSQL. 
-- 💻 See my portfolio website here: https://vahablotfi.github.io/Portfolio/
+- 🌱 I’m currently [enrolled in the HarvardCS50: Introduction to Computer Science course](https://pll.harvard.edu/course/cs50-introduction-computer-science).
+- 👯 I’m looking to collaborate on projects that include JavaScript, React, MYSQL. 
+- 💻 See my portfolio website here: https://vahablotfi.github.io/Portfolio/.
 - 💬 Ask me out for a coffee, if you want more info about me. 
-- 📫 How to reach me: send an e-mail to vahablotfi1@gmail.com
+- 📫 How to reach me: send an e-mail to vahablotfi1@gmail.com.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: loading...
 -->
