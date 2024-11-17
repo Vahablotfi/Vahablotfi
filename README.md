@@ -4,7 +4,6 @@ I am highly motivated and enthusiastic always willing to learn. I work well with
 One of the things I like most about web development is that there are always new challenges and new technologies to learn. 
 
 - 🔭 I’m currently expanding my knowledge, while looking for new exciting challenges.
-- 🌱 I’m currently studying [Computer Science / Datamatiker at KEA](https://kea.dk/uddannelser/erhvervsakademi/datamatiker).
 - 👯 I’m looking to collaborate on projects that include JavaScript, React, MYSQL. 
 - 💻 See my portfolio website here: https://vahablotfi.github.io/Portfolio/.
 - 💬 Ask me out for a coffee, if you want more info about me. 
